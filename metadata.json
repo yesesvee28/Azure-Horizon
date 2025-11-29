@@ -1,0 +1,5 @@
+{
+  "name": "Azure Horizon Hotel Manager",
+  "description": "A comprehensive hotel management system featuring room allocation, real-time availability tracking, and automated expiry handling, integrated with Supabase.",
+  "requestFramePermissions": []
+}
